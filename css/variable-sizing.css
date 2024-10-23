@@ -419,4 +419,15 @@
   .mobile .main-sections-mobile .mobile-section-container #our-tutors-main-mobile .card {
     width: 100%;
   }
+  .intro-text {
+    text-transform: uppercase;
+    color: var(--font-color);
+    font-size: 0.8rem;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: 2rem;
+  }
+  .description-text {
+    margin-right: -2rem;
+  }
 }/*# sourceMappingURL=variable-sizing.css.map */
